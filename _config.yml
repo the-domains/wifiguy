@@ -1,0 +1,28 @@
+name: WiFiGuy
+favicon: null
+layout_spectrum: 0.2959408622700721
+typography_spectrum: 0.6068402784876525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.16829203395172954
+  lightness: 0.4209591879043728
+  saturation: 0.6704743709415197
+  rhythmicContrast: 0.7113942389842123
+purpose: []
